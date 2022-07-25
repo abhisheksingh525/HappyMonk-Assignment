@@ -1,0 +1,4 @@
+Collect data (images) and annotate them for two classes: Person and vehicle. You may use
+platforms such as LabelImg for annotations. You may limit to 800 images for the dataset. Perform
+object detection on your collected dataset and find the mean distance between the two classes
+in each image. You may use YOLOv5 for detection.
