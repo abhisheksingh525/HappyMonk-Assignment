@@ -1,0 +1,7 @@
+To test ability to comprehend new frameworks and ability to write necessary wrappers:
+• Download the pytorch check point file from here (link to be added) and convert the file to .onnx
+• Perform inferences on an onnx runtime session.
+• Write a wrapper to perform the inference on video feed from webcam.
+• Relevant papers to the .pth file:
+• Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose
+• Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB
